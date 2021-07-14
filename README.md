@@ -1,9 +1,19 @@
-Project Title
-Write here about your project in two-three sentences.
+Contacts book
+Contacts Book test task
+(React, Redux, LocalStorage)
 
 https://serhiikolesnyk.github.io/contacts_book/
-Description
-An in-depth paragraph about your project and overview of use.
+Description 
+1. Contact book visually, should be a table, prefer to use semantic table.
+2. Data you receive as JSON from the “backend” For this task use the example below.
+3. Implement chaining LocalStorage <> Redux Store <> View
+4. Contact book should have implemented functionality:
+● Create contact
+● Update contact
+● Delete contact
+5. All interactions with contacts display as in Redux Store as in Local Storage
+6. You could use Material design or bootstrap for view.
+
 
 Local development
 Dependencies
