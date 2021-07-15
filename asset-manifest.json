@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/contacts_book/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/contacts_book/static/js/main.c94abd81.chunk.js",
-    "main.js.map": "/contacts_book/static/js/main.c94abd81.chunk.js.map",
-    "runtime-main.js": "/contacts_book/static/js/runtime-main.8c906ef5.js",
-    "runtime-main.js.map": "/contacts_book/static/js/runtime-main.8c906ef5.js.map",
+    "main.css": "/contacts_book/static/css/main.ded9125d.chunk.css",
+    "main.js": "/contacts_book/static/js/main.48c3be55.chunk.js",
+    "main.js.map": "/contacts_book/static/js/main.48c3be55.chunk.js.map",
+    "runtime-main.js": "/contacts_book/static/js/runtime-main.3ad25eb1.js",
+    "runtime-main.js.map": "/contacts_book/static/js/runtime-main.3ad25eb1.js.map",
     "static/css/2.ac82d1d8.chunk.css": "/contacts_book/static/css/2.ac82d1d8.chunk.css",
-    "static/js/2.8b6ad52c.chunk.js": "/contacts_book/static/js/2.8b6ad52c.chunk.js",
-    "static/js/2.8b6ad52c.chunk.js.map": "/contacts_book/static/js/2.8b6ad52c.chunk.js.map",
-    "static/js/3.ca638654.chunk.js": "/contacts_book/static/js/3.ca638654.chunk.js",
-    "static/js/3.ca638654.chunk.js.map": "/contacts_book/static/js/3.ca638654.chunk.js.map",
+    "static/js/2.4de2b28f.chunk.js": "/contacts_book/static/js/2.4de2b28f.chunk.js",
+    "static/js/2.4de2b28f.chunk.js.map": "/contacts_book/static/js/2.4de2b28f.chunk.js.map",
+    "static/js/3.749e6374.chunk.js": "/contacts_book/static/js/3.749e6374.chunk.js",
+    "static/js/3.749e6374.chunk.js.map": "/contacts_book/static/js/3.749e6374.chunk.js.map",
     "index.html": "/contacts_book/index.html",
     "static/css/2.ac82d1d8.chunk.css.map": "/contacts_book/static/css/2.ac82d1d8.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/contacts_book/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8b6ad52c.chunk.js.LICENSE.txt": "/contacts_book/static/js/2.8b6ad52c.chunk.js.LICENSE.txt"
+    "static/css/main.ded9125d.chunk.css.map": "/contacts_book/static/css/main.ded9125d.chunk.css.map",
+    "static/js/2.4de2b28f.chunk.js.LICENSE.txt": "/contacts_book/static/js/2.4de2b28f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c906ef5.js",
+    "static/js/runtime-main.3ad25eb1.js",
     "static/css/2.ac82d1d8.chunk.css",
-    "static/js/2.8b6ad52c.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c94abd81.chunk.js"
+    "static/js/2.4de2b28f.chunk.js",
+    "static/css/main.ded9125d.chunk.css",
+    "static/js/main.48c3be55.chunk.js"
   ]
 }
