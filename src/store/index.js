@@ -18,10 +18,10 @@ export const actions = {
 
 const usersReducer = function (users = persistedState, action) {
   switch (action.type) {
-    case "ADD":
-      return [...users, action.user];
+
     case "DELETE":
       return users.filter(item => item.pager !== action.user.pager);
+    case "ADD":
     case "CHANGE":
       return [...users.filter(item => (item.name.toLowerCase() !== action.user.name.toLowerCase() && item.lastname.toLowerCase() !== action.user.lastname.toLowerCase())), action.user];
     default:
